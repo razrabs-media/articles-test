@@ -19,12 +19,12 @@
 Ожидаемый результат. Это тот результат, который мы должны были бы получить, если бы функционал, программа или приложение работали правильно.
 
 ### Пример корректного баг-репорта
-![img](/bug-report-correct.png)
+![img](./bug-report-correct.png)
 
 ### Пример не корректного баг-репорта
-![img](/bug-report-not-correct.jpg)
+![img](./bug-report-not-correct.jpg)
 
 
 ##### Всем добра!
-![img](/smiling-cat-creepy-cat.gif)
+![img](./smiling-cat-creepy-cat.gif)
 
