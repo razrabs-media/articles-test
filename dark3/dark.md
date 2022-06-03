@@ -1,4 +1,4 @@
-# Тёмная материя!!
+# Тёмная материя
 
 ![img](https://img.gazeta.ru/files3/635/7704635/darkmataria-pic700-700x467-49899.jpg)
 
