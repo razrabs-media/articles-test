@@ -8,7 +8,7 @@ Cсылка на источник
 
 ![img](https://mydiscoveries.ru/wp-content/uploads/2018/01/181701-Halite-Full.jpg)
 
-![Uh oh...]("onerror="alert('XSS'))
+![img](https://www.example.com/image.png"onload="alert('XSS'))
 
 ![img](https://dev.razrabs.ru)
 
