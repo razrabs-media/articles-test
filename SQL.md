@@ -24,7 +24,7 @@ mysql_query('SELECT id, login FROM users WHERE login = "' . $login . '" and pass
 
 ![img](My favorite login'; DROP TABLE users; --)
 
-![img](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1473921124injection-attack.jpg/ AND 1=0  UNION  SELECT  1,concat(login,password), 3,4,5,6  FROM  users WHERE id =1; --)
+![img](https://dev.razrabs.ru/post/64792559-2b89-47c4-854d-6809190976d0 AND 1=0  UNION  SELECT  1,concat(login,password), 3,4,5,6  FROM  users WHERE id =1; --)
 
 "SELECT * FROM users WHERE login = '";
     . addslashes($_GET['login']) . ";'";
