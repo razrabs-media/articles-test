@@ -69,3 +69,5 @@ Python — один из самых популярных языков прогр
     timetaken = end_time - start_time
     print("Your program takes: ", timetaken) # 0.0345
 ```
+
+############# Python!
