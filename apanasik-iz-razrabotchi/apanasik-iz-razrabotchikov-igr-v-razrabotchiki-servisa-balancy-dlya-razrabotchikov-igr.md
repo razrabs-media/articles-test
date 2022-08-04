@@ -7,7 +7,7 @@
 
 В далёком 2014 на одном из геймджемов мы представили прототип кроссплатформенной MOBA.
 
-[![UnnyWorld](unnyworld-prototype.jpg)](https://www.youtube.com/watch?v=e_PqtbKPAGw " Unnyworld - прототип")
+[![UnnyWorld](balancy-preview.png)](https://www.youtube.com/watch?v=e_PqtbKPAGw " Unnyworld - прототип")
 
 Часть геймплея с боями на арене представляла собой, по сути, мобильную Лигу Легенд (на тот момент подобных игр ещё не было, а Vainglory появился чуть позже). С этим проектом мы [поучаствовали в нескольких акселераторах и получили инвестиции](https://dtf.ru/gamedev/10999-blog-tri-goda-razrabotki-svoey-mmo).
 
