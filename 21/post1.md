@@ -25,4 +25,3 @@
 ![img](./bug-report-not-correct.jpg)
 
 ![img](./smiling-cat-creepy-cat.gif)
-
