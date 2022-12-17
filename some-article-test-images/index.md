@@ -1,12 +1,13 @@
 # Заголовок
-[img](prev.png)
+[img](prev.jpg)
 Описание
 
 
 Картинки:
-[img](test0.png)
-[img](test1.png)
+[img](test0.jpg)
+[img](test1.jpg)
 Разрыв текстом
-[img](test2.png)
+[img](test3.png)
+Подзаголовок
 -----------
 [img](test3.png)
