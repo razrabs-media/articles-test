@@ -2,7 +2,7 @@
 
 Описание
 
-[preview](test0.jpg)
+![preview](test0.jpg)
 
 
 Картинки
